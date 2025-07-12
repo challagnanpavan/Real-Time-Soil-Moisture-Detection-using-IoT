@@ -1,8 +1,8 @@
-```markdown
+
 # 🌱 IoT Soil Moisture Monitoring System with ESP8266 & ThingSpeak  
 
 **A robust, real-time soil moisture detection system for smart agriculture, built on IoT principles.**  
-*By [Your Name] | Est. 2024 | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)*  
+*By Challa Gnan Pavan | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)*  
 
 ---
 
@@ -109,15 +109,4 @@ HTTP Response: 200 OK
 ---
 
 ## 📜 License  
-MIT © [Your Name] - *"Because soil deserves a voice."*  
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/yourprofile)  
-```
-
-### 🎨 Pro Tips for GitHub Aesthetics:  
-1. Use **emoji headers** (like 📌, 🛠) for visual hierarchy.  
-2. Add a **mermaid diagram** (GitHub supports it natively!).  
-3. Keep tables and code blocks syntax-highlighted.  
-4. Badges (shields.io) make it look "pro".  
-
-Simply copy-paste this into your `README.md`! 🚀
+MIT © Challa Gnan Pavan - *"Because soil deserves a voice."*  
